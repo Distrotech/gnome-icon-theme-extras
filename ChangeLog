@@ -1,3 +1,8 @@
+2007-03-16  Jakub Steiner <jimmac@ximian.com>
+
+	* AUTHORS: add andreasn
+	* input-wheel-griffin-powermate: add a nifty blinking input device
+
 2007-03-09  Jakub Steiner <jimmac@ximian.com>
 
 	* locked, unlocked: widely misused icon, but necessary
