@@ -1,5 +1,11 @@
 2007-03-17  Jakub Steiner <jimmac@ximian.com>
 
+	* input-gaming-microsoft-sidewinder-gamepad: new device from
+	  ulisse
+	* AUTHORS: added ulisse
+
+2007-03-17  Jakub Steiner <jimmac@ximian.com>
+
 	* Gadgetango/32x32/devices/computer-gaming-sony-ps3: add some
 	  perspective just like on the 48x48
 
