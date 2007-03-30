@@ -8,8 +8,13 @@
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-undelete-ltr, gtk-undelete-rtl: another one bites the
+	  dust(bin)
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-redo-ltr, gtk-redo-rtl, gtk-undo-ltr, gtk-undo-rtl: undo
-	and redo stock
+	  and redo stock
 
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
