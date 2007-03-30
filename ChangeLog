@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-open: from hbons
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-copy, gtk-cut, gtk-paste: from OOo set
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
