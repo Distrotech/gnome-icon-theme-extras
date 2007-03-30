@@ -1,7 +1,15 @@
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-bold, gtk-italic, gtk-underline, gtk-strikethrough:
+	  font stock
+
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
 	* stock-icons: additions by Antoine Cailliau
 
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* stock-icons/*indent*: indent/unindent stock
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
