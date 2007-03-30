@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-font, gtk-select-font: another font icon
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-bold, gtk-italic, gtk-underline, gtk-strikethrough:
 	  font stock
 
