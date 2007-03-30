@@ -1,3 +1,8 @@
+2007-03-30  Andreas Nilsson <nisses.mail@home.se>
+
+	* gtk-exit: removed, no action by this name
+	* gtk-quit: added, correct name
+
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
 	* gtk-close: more natural shape from Cornelius.
