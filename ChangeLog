@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-sort-ascending, gtk-sort-descending: from OOo
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-leave-fullscreen: make smaller so it looks more different to
 	  the gtk-fullscreen icon.
 
