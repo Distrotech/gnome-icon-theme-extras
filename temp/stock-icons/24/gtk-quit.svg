@@ -13,15 +13,14 @@
    height="24"
    id="svg4908"
    sodipodi:version="0.32"
-   inkscape:version="0.44+devel"
+   inkscape:version="0.45+devel"
    version="1.0"
-   sodipodi:docname="gtk-exit.svg"
+   sodipodi:docname="gtk-quit.svg"
    sodipodi:docbase="/home/andreas/project/gtk/24"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/andreas/project/gtk/24/gtk-exit.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:modified="true">
+   inkscape:export-ydpi="90">
   <defs
      id="defs4910">
     <linearGradient
@@ -49,14 +48,13 @@
          id="stop5954" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient5940">
       <stop
          style="stop-color:#346703;stop-opacity:1"
          offset="0"
          id="stop5942" />
       <stop
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
          id="stop5944" />
     </linearGradient>
@@ -164,11 +162,11 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#e8e8e8"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
+     inkscape:zoom="1"
      inkscape:cx="18.41443"
      inkscape:cy="14.740751"
      inkscape:current-layer="layer1"
@@ -177,10 +175,12 @@
      inkscape:document-units="px"
      width="24px"
      height="24px"
-     inkscape:window-width="1674"
-     inkscape:window-height="969"
-     inkscape:window-x="0"
-     inkscape:window-y="26" />
+     inkscape:window-width="972"
+     inkscape:window-height="957"
+     inkscape:window-x="351"
+     inkscape:window-y="42"
+     inkscape:showpageshadow="false"
+     borderlayer="true" />
   <metadata
      id="metadata4913">
     <rdf:RDF>

@@ -13,15 +13,14 @@
    height="16"
    id="svg4908"
    sodipodi:version="0.32"
-   inkscape:version="0.44+devel"
+   inkscape:version="0.45+devel"
    version="1.0"
-   sodipodi:docname="gtk-exit.svg"
+   sodipodi:docname="gtk-quit.svg"
    sodipodi:docbase="/home/andreas/project/gtk/16"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/andreas/project/gtk/16/gtk-exit.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:modified="true">
+   inkscape:export-ydpi="90">
   <defs
      id="defs4910">
     <linearGradient
@@ -61,14 +60,13 @@
          id="stop5954" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient5940">
       <stop
          style="stop-color:#346703;stop-opacity:1"
          offset="0"
          id="stop5942" />
       <stop
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
          id="stop5944" />
     </linearGradient>
@@ -187,23 +185,25 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#e3e3e3"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="11.07912"
-     inkscape:cy="8.1060007"
+     inkscape:zoom="1"
+     inkscape:cx="12.062335"
+     inkscape:cy="12.9155"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      width="16px"
      height="16px"
-     inkscape:window-width="1674"
-     inkscape:window-height="969"
-     inkscape:window-x="0"
-     inkscape:window-y="26" />
+     inkscape:window-width="1003"
+     inkscape:window-height="941"
+     inkscape:window-x="341"
+     inkscape:window-y="31"
+     inkscape:showpageshadow="false"
+     borderlayer="true" />
   <metadata
      id="metadata4913">
     <rdf:RDF>
@@ -247,9 +247,9 @@
     <rect
        style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4947"
-       width="1.9375"
-       height="2"
-       x="8.0625"
+       width="1"
+       height="1.032258"
+       x="9"
        y="6" />
     <rect
        style="opacity:0.17934783;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
