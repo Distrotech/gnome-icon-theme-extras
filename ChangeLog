@@ -1,5 +1,10 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-media*: tweaks. add an outer highlight touch. make the play
+	  button wider. some gloss on the record button.
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-jump-to-ltr, gtk-jump-to-rtl: more, more, more!
 
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
