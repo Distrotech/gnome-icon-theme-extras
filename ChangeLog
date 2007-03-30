@@ -1,5 +1,10 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-apply: reverted to David's version due to overwhelming
+	  response at #tango
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-index: Lapo's & Steve's work
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
