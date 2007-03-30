@@ -1,3 +1,11 @@
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-save-as:
+	* gtk-floppy:
+	* gtk-revert-to-saved-ltr:
+	* gtk-revert-to-saved-rtl: floppy-based icons
+	* gtk-harddisk: neat icon from cornelius.
+
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
 	* gtk-about: fixed the 24x24 based on antoines work
