@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-print: print icon
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-save-as:
 	* gtk-floppy:
 	* gtk-revert-to-saved-ltr:
