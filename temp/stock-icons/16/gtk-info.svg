@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   inkscape:label="Pozadí"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/cornelius/GFX/ikony/GTK/my-stuff/16x16"
+   sodipodi:docname="gtk-info.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5870">
+      <stop
+         style="stop-color:#a9c4e2;stop-opacity:1"
+         offset="0"
+         id="stop5872" />
+      <stop
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="1"
+         id="stop5874" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5870"
+       id="linearGradient5876"
+       x1="2.3514504"
+       y1="2.7477887"
+       x2="12.341661"
+       y2="12.231739"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.455176"
+     inkscape:cx="11.451603"
+     inkscape:cy="16.833671"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="24px"
+     height="24px"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     inkscape:window-width="989"
+     inkscape:window-height="777"
+     inkscape:window-x="170"
+     inkscape:window-y="65" />
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>info</dc:title>
+        <dc:date>29.3.2007</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Josef Vybíral</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:url(#linearGradient5876);fill-opacity:1.0;fill-rule:evenodd;stroke:#3465a4;stroke-width:1.0217737px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4899"
+       sodipodi:cx="7.960588"
+       sodipodi:cy="8.0063801"
+       sodipodi:rx="7.6633048"
+       sodipodi:ry="7.6633048"
+       d="M 15.623893 8.0063801 A 7.6633048 7.6633048 0 1 1  0.29728317,8.0063801 A 7.6633048 7.6633048 0 1 1  15.623893 8.0063801 z"
+       transform="matrix(0.97869,0,0,0.97869,0.2090518,0.1642355)" />
+    <path
+       transform="matrix(0.8481981,0,0,0.8481981,1.2478441,1.2090033)"
+       d="M 15.623893 8.0063801 A 7.6633048 7.6633048 0 1 1  0.29728317,8.0063801 A 7.6633048 7.6633048 0 1 1  15.623893 8.0063801 z"
+       sodipodi:ry="7.6633048"
+       sodipodi:rx="7.6633048"
+       sodipodi:cy="8.0063801"
+       sodipodi:cx="7.960588"
+       id="path5878"
+       style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.1789695px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27927929;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       style="font-size:13.58991337px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif"
+       d="M 6.5224522,4.0149684 C 6.5224509,3.65665 6.6463172,3.3558319 6.8940514,3.1125132 C 7.1417823,2.8647906 7.4448123,2.7409243 7.8031423,2.740914 C 8.1526196,2.7409243 8.4490139,2.8647906 8.692326,3.1125132 C 8.9400552,3.3558319 9.0639214,3.65665 9.0639252,4.0149684 C 9.0639214,4.3644573 8.9400552,4.6630634 8.692326,4.9107878 C 8.4490139,5.1541047 8.1526196,5.2757591 7.8031423,5.2757513 C 7.4448123,5.2757591 7.1417823,5.1541047 6.8940514,4.9107878 C 6.6463172,4.6674872 6.5224509,4.368881 6.5224522,4.0149684 M 8.9913735,12.031923 L 9.9999999,12.031923 L 9.9999999,13 L 5.97066,13 L 5.97066,12.031923 L 6.9726507,12.031923 L 6.9726507,7.0134226 L 5.97066,7.0134226 L 5.97066,5.9792825 L 8.9913735,5.9792825 L 8.9913735,12.031923"
+       id="text5882"
+       sodipodi:nodetypes="cssssssscccccccccccc" />
+  </g>
+</svg>

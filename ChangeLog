@@ -1,3 +1,9 @@
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* temp/*stock-icons/: temporary place the gtk+ stock here so we
+	can work from one place. Already includes additions from cornelius
+	and some hbons'.
+
 2007-03-27  Jakub Steiner <jimmac@ximian.com>
 
 	* input-gaming-nintendo-wii-classic-controller.svg:
