@@ -77,8 +77,8 @@
      showgrid="false"
      inkscape:window-width="872"
      inkscape:window-height="926"
-     inkscape:window-x="698"
-     inkscape:window-y="76" />
+     inkscape:window-x="695"
+     inkscape:window-y="109" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -95,7 +95,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.47126437;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter5205)"
+       style="filter:url(#filter5205);enable-background:accumulate;overflow:visible;display:inline;visibility:visible;stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none;stroke-miterlimit:10;marker-end:none;marker-mid:none;marker-start:none;marker:none;stroke-linejoin:miter;stroke-linecap:round;stroke-width:1;stroke:none;fill-rule:evenodd;fill-opacity:1;fill:#000000;color:#000000;opacity:0.3"
        id="rect5151"
        width="22.125"
        height="4.1875"
