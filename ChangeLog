@@ -1,5 +1,18 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-apply, gtk-cancel, gtk-close: based on work by 
+	David Prieto <frandavid100@gmail.com>
+	
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* 24/gtk-add: by cornelius
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-dnd, gtk-dnd-multiple: based on sekkymu's work
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-sort-ascending, gtk-sort-descending: from OOo
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
