@@ -1,5 +1,9 @@
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
+	* gtk-select-color: gtk-select-color in 24x24
+
+2007-03-30  Andreas Nilsson <nisses.mail@home.se>
+
 	* gtk-exit: removed, no action by this name
 	* gtk-quit: added, correct name
 
