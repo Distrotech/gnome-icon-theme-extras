@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-index: Lapo's & Steve's work
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-apply, gtk-cancel, gtk-close: based on work by 
 	David Prieto <frandavid100@gmail.com>
 	
