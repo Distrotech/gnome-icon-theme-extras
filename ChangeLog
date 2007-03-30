@@ -1,5 +1,9 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* stock-icons: more additions from hbons. some missing SVGs
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* temp/*stock-icons/: temporary place the gtk+ stock here so we
 	can work from one place. Already includes additions from cornelius
 	and some hbons'.
