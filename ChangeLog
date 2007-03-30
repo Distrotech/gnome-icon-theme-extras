@@ -1,3 +1,7 @@
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-jump-to-ltr, gtk-jump-to-rtl: more, more, more!
+
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
 	* gtk-convert: convert action
