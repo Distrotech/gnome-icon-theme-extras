@@ -1,5 +1,10 @@
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
+	* gtk-leave-fullscreen: make smaller so it looks more different to
+	  the gtk-fullscreen icon.
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-info: make a bit more clear
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
