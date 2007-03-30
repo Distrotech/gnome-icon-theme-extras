@@ -1,6 +1,10 @@
+2007-03-30  Andreas Nilsson <nisses.mail@home.se>
+
+	* gtk-media-record*: last gtk-media-* action left
+
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
-	* gtk-redo-ltr, gtk-redo-rtl, gtk-undo-ltr, gtk-undo-rtl: undoe
+	* gtk-redo-ltr, gtk-redo-rtl, gtk-undo-ltr, gtk-undo-rtl: undo
 	and redo stock
 
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
