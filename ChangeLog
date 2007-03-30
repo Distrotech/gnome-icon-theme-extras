@@ -1,3 +1,7 @@
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-delete: the trashbin with a tango facelift.
+
 2007-03-30  Andreas Nilsson <nisses.mail@home.se>
 
 	* gtk-fullscreen, gtk-leave-fullscreen: by hbons
