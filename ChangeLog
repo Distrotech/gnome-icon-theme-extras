@@ -1,8 +1,17 @@
+2007-04-02  Jakub Steiner <jimmac@ximian.com>
+
+	* gtk-dialog-warning: fix linked offset bug
+	* gtk-diaog-question: fix proprotions
+
 2007-03-30  Lapo Calamandrei <calamandrei@gmail.com>
 
 	* gtk-about: tweakings
 	* gtk-directory: tweakings
 	* gtk-open: guess?
+
+2007-03-30  Jakub Steiner <jimmac@ximian.com>
+
+	* 16/gtk-select-color: tig's contribution
 
 2007-03-30  Jakub Steiner <jimmac@ximian.com>
 
