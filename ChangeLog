@@ -1,5 +1,10 @@
 2007-04-02  Jakub Steiner <jimmac@ximian.com>
 
+	* temp: the temporary place served its purpose. Mailed proposal to
+	  the gtk+ miantainers.
+
+2007-04-02  Jakub Steiner <jimmac@ximian.com>
+
 	* gtk-dialog-warning: fix linked offset bug
 	* gtk-diaog-question: fix proprotions
 
