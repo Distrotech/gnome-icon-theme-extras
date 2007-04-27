@@ -13,7 +13,7 @@
    height="48"
    id="svg2160"
    sodipodi:version="0.32"
-   inkscape:version="0.45.1"
+   inkscape:version="0.45+devel"
    sodipodi:docbase="D:\Icons"
    sodipodi:docname="phone-sony-ericsson-w300i.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -2239,25 +2239,27 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#d3d3d3"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="36.569206"
-     inkscape:cy="25.479331"
-     inkscape:current-layer="g2580"
+     inkscape:zoom="1"
+     inkscape:cx="1.866847"
+     inkscape:cy="17.216902"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1162"
+     inkscape:window-height="968"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      width="48px"
-     height="48px" />
+     height="48px"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata2165">
     <rdf:RDF>
@@ -2323,8 +2325,9 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:0.39080458;color:#000000;fill:#383838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5266);enable-background:accumulate"
-       d="M 13.34375 41.90625 C 12.899947 41.90625 12.480431 41.982624 12.125 42.15625 C 11.003649 42.242598 10.1875 42.53371 10.1875 42.875 C 10.1875 43.091412 10.502737 43.270608 11.03125 43.40625 C 10.987803 43.556472 10.9375 43.713396 10.9375 43.875 C 10.9375 44.975279 12.01917 45.875001 13.34375 45.875 L 34.53125 45.875 C 35.766823 45.875 36.774182 45.092006 36.90625 44.09375 C 37.461333 44.138952 38.046824 44.1875 38.71875 44.1875 C 40.912353 44.1875 42.718751 43.898854 42.71875 43.5625 C 42.71875 43.226148 40.912354 42.96875 38.71875 42.96875 C 37.964488 42.96875 37.319712 43.006472 36.71875 43.0625 C 36.341232 42.375834 35.505793 41.906249 34.53125 41.90625 L 13.34375 41.90625 z "
-       id="rect4607" />
+       d="M 13.34375,40.138483 C 12.899947,40.138483 12.480431,40.214857 12.125,40.388483 C 11.003649,40.474831 10.1875,40.765943 10.1875,41.107233 C 10.1875,41.323645 10.502737,41.502841 11.03125,41.638483 C 10.987803,41.788705 10.9375,41.945629 10.9375,42.107233 C 10.9375,43.207512 12.01917,44.107234 13.34375,44.107233 L 34.53125,44.107233 C 35.766823,44.107233 36.774182,43.324239 36.90625,42.325983 C 37.461333,42.371185 38.046824,42.419733 38.71875,42.419733 C 40.912353,42.419733 42.718751,42.131087 42.71875,41.794733 C 42.71875,41.458381 40.912354,41.200983 38.71875,41.200983 C 37.964488,41.200983 37.319712,41.238705 36.71875,41.294733 C 36.341232,40.608067 35.505793,40.138482 34.53125,40.138483 L 13.34375,40.138483 z"
+       id="rect4607"
+       transform="matrix(1,0,0,1.0944882,0,-3.7926126)" />
     <g
        id="g2580">
       <path

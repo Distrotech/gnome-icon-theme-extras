@@ -13,14 +13,13 @@
    height="32px"
    id="svg3574"
    sodipodi:version="0.32"
-   inkscape:version="0.45"
+   inkscape:version="0.45+devel"
    sodipodi:docbase="D:\Icons"
-   sodipodi:docname="phone-sony-ericsson-w300i-32x32.svg"
+   sodipodi:docname="phone-sony-ericsson-w300i.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="D:\Icons\phone-sony-ericsson-w300i-32x32.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:modified="true">
+   inkscape:export-ydpi="90">
   <defs
      id="defs3576">
     <linearGradient
@@ -311,39 +310,29 @@
        fx="100.66233"
        fy="21.054541"
        r="1.7832407" />
-    <filter
-       inkscape:collect="always"
-       x="-0.055882353"
-       width="1.1117647"
-       y="-0.475"
-       height="1.95"
-       id="filter4831">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.475"
-         id="feGaussianBlur4833" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#f0f0f0"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.014045"
-     inkscape:cx="22.053576"
-     inkscape:cy="11.812338"
+     inkscape:zoom="1"
+     inkscape:cx="24.913647"
+     inkscape:cy="31.743584"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="1003"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1007"
+     inkscape:window-height="978"
+     inkscape:window-x="213"
+     inkscape:window-y="57"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata3579">
     <rdf:RDF>
@@ -489,9 +478,9 @@
     </g>
     <path
        style="opacity:0.39080458;color:#000000;fill:#383838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5266);enable-background:accumulate"
-       d="M 8.6427123,28.671579 C 8.1989093,28.671579 7.7793933,28.747953 7.4239623,28.921579 C 6.3026113,29.007927 5.4864623,29.299039 5.4864623,29.640329 C 5.4864623,29.856741 5.8016993,30.035937 6.3302123,30.171579 C 6.2867653,30.321801 6.2364623,30.478725 6.2364623,30.640329 C 6.2364623,31.740608 7.3181323,32.64033 8.6427123,32.640329 L 29.830212,32.640329 C 31.065785,32.640329 32.073144,31.857335 32.205212,30.859079 C 32.760295,30.904281 33.345786,30.952829 34.017712,30.952829 C 36.211315,30.952829 38.017713,30.664183 38.017712,30.327829 C 38.017712,29.991477 36.211316,29.734079 34.017712,29.734079 C 33.26345,29.734079 32.618674,29.771801 32.017712,29.827829 C 31.640194,29.141163 30.804755,28.671578 29.830212,28.671579 L 8.6427123,28.671579 z "
+       d="M 8.6427123,28.671579 C 8.1989093,28.671579 7.7793933,28.747953 7.4239623,28.921579 C 6.3026113,29.007927 5.4864623,29.299039 5.4864623,29.640329 C 5.4864623,29.856741 5.8016993,30.035937 6.3302123,30.171579 C 6.2867653,30.321801 6.2364623,30.478725 6.2364623,30.640329 C 6.2364623,31.740608 7.3181323,32.64033 8.6427123,32.640329 L 29.830212,32.640329 C 31.065785,32.640329 32.073144,31.857335 32.205212,30.859079 C 32.760295,30.904281 33.345786,30.952829 34.017712,30.952829 C 36.211315,30.952829 38.017713,30.664183 38.017712,30.327829 C 38.017712,29.991477 36.211316,29.734079 34.017712,29.734079 C 33.26345,29.734079 32.618674,29.771801 32.017712,29.827829 C 31.640194,29.141163 30.804755,28.671578 29.830212,28.671579 L 8.6427123,28.671579 z"
        id="rect4607"
-       transform="matrix(0.8088189,0,0,0.7964069,-0.9452766,4.3323742)" />
+       transform="matrix(0.8088189,0,0,0.8409491,-0.9452766,1.99462)" />
     <g
        id="g2558"
        transform="matrix(0.8088189,0,0,0.7964069,-4.1421617,-5.9089527)">

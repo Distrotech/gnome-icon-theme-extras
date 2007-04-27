@@ -3,6 +3,8 @@
 	* input-gaming-sony-psx-dual-shock: yet another sony controller 
 	  by Jonathan Zuniga.
 	* AUTHORS: add a few missing people
+	* phone-sony-ericsson-w300i: shadow tweaks to make the phone not
+	  appear floating in the air.
 
 2007-04-20  Andreas Nilsson <nisses.mail@home.se>
 
