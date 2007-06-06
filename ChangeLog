@@ -1,3 +1,16 @@
+2007-06-06  Josef Vybíral <cornelius@vybiral.info>
+
+	* media-flash-usb-transcend-jetflash-150-256MB.svg: USB memory 
+	  stick(256MB, green) by Ricardo González 
+	* media-flash-usb-transcend-jetflash-150-512MB.svg: USB memory 
+	  stick(512MB, blue) by Ricardo González
+	* media-flash-usb-transcend-jetflash-150-1GB.svg: USB memory 
+	  stick(1GB, red) by Ricardo González
+	* media-flash-usb-transcend-jetflash-150-2GB.svg: USB memory 
+	  stick(2GB, silver) by Ricardo González
+	* media-flash-usb-transcend-jetflash-150-4GB.svg: USB memory 
+	  stick(4GB, orange) by Ricardo González
+
 2007-04-27  Jakub Steiner <jimmac@ximian.com>
 
 	* input-gaming-sony-psx-dual-shock: yet another sony controller 
