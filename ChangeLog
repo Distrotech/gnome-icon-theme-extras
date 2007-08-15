@@ -1,3 +1,21 @@
+2007-08-15  Jakub Steiner <jimmac@ximian.com>
+
+	* handheld-hp-ipaq-rx1950.svg,
+		media-flash-usb-verbatim-store-n-go-1gb.svg,
+		video-display-apple-cinema.svg, computer-ibm-pc-5150.svg,
+		multimedia-radio-terratec-noxon-2.svg, usb-wifi.svg,
+		computer-apple-imac-intel.svg, computer-apple-imac-g5.svg,
+		multimedia-remote-logitech-harmony-1000.svg,
+		computer-laptop-sony-vaio-tx.svg,
+		computer-laptop-apple-powerbook.svg,
+		computer-apple-macintosh-512.svg, computer-apple-lisa.svg: loads
+		of new device icons by Frédéric Bellaiche
+
+2007-05-30  Jakub Steiner <jimmac@ximian.com>
+
+	* camera-photo-panasonic-lumix-fx01: great new addition by
+	Jonathan Zuniga
+
 2007-06-22  Josef Vybíral <cornelius@vybiral.info>
 
 	* scalable/camera-photo-panasonic-lumix-fx01.svg: Moved to proper location 

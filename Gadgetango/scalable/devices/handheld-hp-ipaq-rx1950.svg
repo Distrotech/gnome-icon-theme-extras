@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg7711"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docname="handheld-hp-ipaq-rx1950.svg"
+   sodipodi:docbase="/home/kalle/Projekt/Tango/Handheld/ipaq/scaleable"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs7713">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4946">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4948" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4950" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6228">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1;"
+         offset="0"
+         id="stop6230" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:0;"
+         offset="1"
+         id="stop6232" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6295">
+      <stop
+         style="stop-color:#7cb8f8;stop-opacity:0.94117647;"
+         offset="0"
+         id="stop6297" />
+      <stop
+         style="stop-color:#5e93cc;stop-opacity:0;"
+         offset="1"
+         id="stop6299" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3384">
+      <stop
+         style="stop-color:#555753;stop-opacity:1;"
+         offset="0"
+         id="stop3386" />
+      <stop
+         style="stop-color:#555753;stop-opacity:0;"
+         offset="1"
+         id="stop3388" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3384"
+       id="radialGradient3390"
+       cx="33.941124"
+       cy="62.621582"
+       fx="33.941124"
+       fy="62.621582"
+       r="22.097088"
+       gradientTransform="matrix(0.945206,0,0,0.132,1.9124065,54.936747)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6228"
+       id="radialGradient4926"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9923939,0,0,0.1240492,0.2738184,33.69047)"
+       cx="23.908028"
+       cy="26.679165"
+       fx="23.908028"
+       fy="26.679165"
+       r="12.091972" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6295"
+       id="linearGradient4938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381713,0,0,1.4404814,-0.9708026,-16.623108)"
+       x1="24.873737"
+       y1="22.647364"
+       x2="24.998737"
+       y2="33.67767" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4946"
+       id="linearGradient4952"
+       x1="34.597725"
+       y1="7.1519566"
+       x2="22.895826"
+       y2="23.36166"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="18.235611"
+     inkscape:cy="27.397488"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:window-width="987"
+     inkscape:window-height="745"
+     inkscape:window-x="89"
+     inkscape:window-y="109"
+     showgrid="true" />
+  <metadata
+     id="metadata7716">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:source>kalle@nemus.se</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>handheld hp ipaq rx1950</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kalle Persson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>handheld-hp-ipaq-rx1950</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3390);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3382"
+       sodipodi:cx="34.117901"
+       sodipodi:cy="63.291183"
+       sodipodi:rx="22.097088"
+       sodipodi:ry="2.9168155"
+       d="M 56.214989 63.291183 A 22.097088 2.9168155 0 1 1  12.020813,63.291183 A 22.097088 2.9168155 0 1 1  56.214989 63.291183 z"
+       transform="matrix(0.6788225,0,0,0.8570991,0.8400016,-8.7468163)"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ecf2f1;fill-opacity:1;stroke:#848484;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.969216,0.5 C 17.550909,0.5 12.593804,1.4611341 11.16242,1.8446866 C 9.6885737,2.239617 9.5,2.6163974 9.5,3.5735695 L 9.5307859,37.927111 C 9.4308801,43.861721 17.278134,47.279489 24.000002,47.5 C 31.108178,47.329635 38.385162,43.932661 38.469215,37.927111 L 38.500001,3.5735695 C 38.500001,2.6163974 38.045745,2.1684252 36.837581,1.8446866 C 35.670567,1.5319743 30.387521,0.5 23.969216,0.5 z "
+       id="rect2221"
+       sodipodi:nodetypes="czccccczz"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       sodipodi:nodetypes="czccccczc"
+       id="path6180"
+       d="M 23.971723,2 C 20.053404,2 14.053361,2.746678 12.526366,3.0599818 C 10.98877,3.3754606 11.021443,4.7768031 11.021443,4.8331899 L 11.004709,36.993954 C 10.915597,42.549758 18.003487,45.749371 23.999182,45.955806 C 30.339452,45.796317 36.918681,42.605119 36.993655,36.982905 L 37.010067,4.8773841 C 37.010067,4.9093857 37.005412,3.5190917 35.4499,3.2588556 C 33.88364,2.9968212 28.107805,2 23.971723,2 z "
+       style="fill:#d5e0de;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <rect
+       style="fill:#2b63b8;fill-opacity:1;stroke:#4c6896;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3202"
+       width="23"
+       height="30"
+       x="12.5"
+       y="6.5"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.4642857;fill:url(#linearGradient4938);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 13,27.908607 C 13,27.908607 17.213857,24.034637 24.81439,23.863044 C 32.994334,23.675439 35,16 35,16 L 34.931178,36 L 13,36 L 13,27.908607 z "
+       id="path3307"
+       sodipodi:nodetypes="cscccc"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#4aafdd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3272"
+       width="22"
+       height="2"
+       x="13"
+       y="34"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#798b8e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3277"
+       width="6"
+       height="5"
+       x="20.994797"
+       y="40"
+       ry="2"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="2" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#798b8e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3285"
+       sodipodi:cx="4.0658641"
+       sodipodi:cy="38.45406"
+       sodipodi:rx="1.4142135"
+       sodipodi:ry="1.4142135"
+       d="M 5.4800776 38.45406 A 1.4142135 1.4142135 0 1 1  2.6516505,38.45406 A 1.4142135 1.4142135 0 1 1  5.4800776 38.45406 z"
+       transform="matrix(1.0606602,0,0,1.0606602,14.1875,1.7133095)"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.0606601,0,0,1.0606601,10.6875,-0.2866866)"
+       d="M 5.4800776 38.45406 A 1.4142135 1.4142135 0 1 1  2.6516505,38.45406 A 1.4142135 1.4142135 0 1 1  5.4800776 38.45406 z"
+       sodipodi:ry="1.4142135"
+       sodipodi:rx="1.4142135"
+       sodipodi:cy="38.45406"
+       sodipodi:cx="4.0658641"
+       id="path3295"
+       style="fill:#798b8e;fill-opacity:1;stroke:#888a85;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(-1.0606603,0,0,1.0606603,33.8125,1.7133058)"
+       d="M 5.4800776 38.45406 A 1.4142135 1.4142135 0 1 1  2.6516505,38.45406 A 1.4142135 1.4142135 0 1 1  5.4800776 38.45406 z"
+       sodipodi:ry="1.4142135"
+       sodipodi:rx="1.4142135"
+       sodipodi:cy="38.45406"
+       sodipodi:cx="4.0658641"
+       id="path3303"
+       style="fill:#798b8e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#798b8e;fill-opacity:1;stroke:none;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3305"
+       sodipodi:cx="4.0658641"
+       sodipodi:cy="38.45406"
+       sodipodi:rx="1.4142135"
+       sodipodi:ry="1.4142135"
+       d="M 5.4800776 38.45406 A 1.4142135 1.4142135 0 1 1  2.6516505,38.45406 A 1.4142135 1.4142135 0 1 1  5.4800776 38.45406 z"
+       transform="matrix(-1.0606601,0,0,1.0606601,37.3125,-0.2866866)"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="1"
+       y="41.25"
+       x="-25.499802"
+       height="2.5"
+       width="2.9996033"
+       id="rect3379"
+       style="fill:#eef4f4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="1"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 26,2.7791344 C 26,4.1184146 25.103999,4.5 24,4.5 C 22.896,4.5 22,4.2482691 22,2.7791344 C 22,2.2836228 22.284991,2 23.987302,2 C 25.612706,2 26,2.2965923 26,2.7791344 z "
+       id="path3436"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       y="7"
+       x="13"
+       height="2"
+       width="22"
+       id="rect4925"
+       style="fill:#4aafdd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.7;fill:url(#radialGradient4926);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6236"
+       width="24"
+       height="3"
+       x="12"
+       y="37"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/srv/www/htdocs/dump/ipaq.png"
+       y="7"
+       x="13"
+       height="29"
+       width="22"
+       id="rect4944"
+       style="fill:url(#linearGradient4952);fill-opacity:1.0;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.4" />
+  </g>
+</svg>
