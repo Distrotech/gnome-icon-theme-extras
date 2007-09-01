@@ -1,3 +1,9 @@
+2007-09-01  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* MAINTAINERS: Update to include more info
+
+	* */*/*/*.svg: Set svn:mime-type and unset svn:executable
+
 2007-08-15  Jakub Steiner <jimmac@ximian.com>
 
 	* handheld-hp-ipaq-rx1950.svg,
