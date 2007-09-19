@@ -1,3 +1,14 @@
+2007-09-19  Rodney Dawes  <dobey.pwns@gail.com>
+
+	* AUTHORS:
+	Add Ryan Collier
+	
+	* scalable/multimedia-player-apple-ipod-*.svg:
+	* scalable/multimedia-player-dell-dj-pocket.svg:
+	* scalable/phone-motorola-rokr.svg:
+	Add iPod, Dell DJ Pocket, and Motorola Rokr icons from Ryan Collier
+	Relicensed to GPL for inclusion in gnome-icon-theme-extras
+
 2007-09-01  Rodney Dawes  <dobey.pwns@gmail.com>
 
 	* MAINTAINERS: Update to include more info
