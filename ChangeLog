@@ -1,3 +1,20 @@
+2007-09-25  Andreas Nilsson  <nisses.mail@home.se>
+
+	* AUTHORS:
+	Add André Wyrwa
+	
+	* multimedia-player-iriver-clix-dock.svg:
+	* multimedia-player-iriver-clix.svg:
+	* multimedia-player-iriver-s10.svg:
+	* multimedia-player-iriver-t10-black.svg:
+	* multimedia-player-iriver-t10-blue.svg:
+	* multimedia-player-iriver-t10-green.svg:
+	* multimedia-player-iriver-t10-red.svg:
+	* multimedia-player-iriver-t10-yellow.svg:
+
+	Add Clix, Clix Dock, s10, t10 (black, blue, green, red and yellow variants) by André Wyrwa.
+
+
 2007-09-19  Rodney Dawes  <dobey.pwns@gail.com>
 
 	* AUTHORS:
