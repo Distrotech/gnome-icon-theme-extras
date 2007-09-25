@@ -1,4 +1,15 @@
 2007-09-25  Andreas Nilsson  <nisses.mail@home.se>
+	
+	* multimedia-player-iriver-t60-black.svg
+	* multimedia-player-iriver-t60-blue.svg
+	* multimedia-player-iriver-t60-white.svg
+	* multimedia-player-iriver-t20-gold.svg
+	* multimedia-player-iriver-t20-red.svg
+	* multimedia-player-iriver-t20-silver.svg
+
+	Add the iriver t20 (gold, red and silver) and t60 (black, blue and white) models by André Wyrwa.
+
+2007-09-25  Andreas Nilsson  <nisses.mail@home.se>
 
 	* AUTHORS:
 	Add André Wyrwa
