@@ -1,5 +1,10 @@
 2007-11-11  Rodney Dawes  <dobey.pwns@gmail.com>
 
+	* text-x-boo.*:
+	Update from Vinicius Depizzol to fix a small blur filter issue
+
+2007-11-11  Rodney Dawes  <dobey.pwns@gmail.com>
+
 	* application-x-php.*:
 	* application-x-ruby.*:
 	* text-x-python.*:
