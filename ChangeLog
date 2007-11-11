@@ -1,5 +1,15 @@
 2007-11-11  Rodney Dawes  <dobey.pwns@gmail.com>
 
+	* AUTHORS: Add Frederic Bellaiche
+
+	* phone-motorola-v3i.*:
+	* phone-nokia-6300.*:
+	* phone-nokia-n95.*:
+	* scanner-epson-perfection-1260.*:
+	Add more device icons from Frederic Bellaiche
+
+2007-11-11  Rodney Dawes  <dobey.pwns@gmail.com>
+
 	* text-x-boo.*:
 	Update from Vinicius Depizzol to fix a small blur filter issue
 
