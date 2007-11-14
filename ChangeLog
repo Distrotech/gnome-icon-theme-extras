@@ -1,3 +1,9 @@
+2007-11-13  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* text-x-patch.svg:
+	Make the diff hilight much less pronounced
+	Add a 32x32 version of the icon
+
 2007-11-12  Rodney Dawes  <dobey.pwns@gmail.com>
 
 	* text-x-patch.svg:
