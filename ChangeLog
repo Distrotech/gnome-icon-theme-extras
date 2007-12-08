@@ -1,5 +1,11 @@
 2007-12-08  Rodney Dawes  <dobey.pwns@gmail.com>
 
+	* multimedia-player-e200.*:
+	* multimedia-player-sandisk-sansa-e200.*:
+	Rename the e200 icon to the proper sandisk-sansa-e200 name
+
+2007-12-08  Rodney Dawes  <dobey.pwns@gmail.com>
+
 	* multimedia-player-apple-ipod.svg:
 	* multimedia-player-apple-ipod-color.svg:
 	* multimedia-player-apple-ipod-U2.svg:
