@@ -1,3 +1,13 @@
+2007-12-08  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* multimedia-player-apple-ipod.svg:
+	* multimedia-player-apple-ipod-color.svg:
+	* multimedia-player-apple-ipod-U2.svg:
+	* multimedia-player-apple-ipod-standard-color.svg:
+	* multimedia-player-apple-ipod-standard-monochrome.svg:
+	* multimedia-player-apple-ipod-U2-monochrome.svg:
+	Remove "standard" and "monochrome" from file names
+
 2007-11-13  Andreas Nilsson  <nisses.mail@home.se>
 
 	* phone-sony-ericsson-w880i.svg:
