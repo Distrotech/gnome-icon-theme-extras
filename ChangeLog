@@ -1,6 +1,11 @@
+2007-12-27  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* multimedia-player-sandisk-sansa-e200.*:
+	Fix incorrect license in icon metadata
+
 2007-12-21  Rodney Dawes  <dobey.pwns@gmail.com>
 
-	* camear-photo-sony-dsc-p200.*:
+	* camera-photo-sony-dsc-p200.*:
 	Add Vinicius Depizzol's Sony DSC P200 icons
 
 2007-12-17  Rodney Dawes  <dobey.pwns@gmail.com>
