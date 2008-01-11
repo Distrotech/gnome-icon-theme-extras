@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,15 +13,61 @@
    height="48px"
    id="svg7429"
    sodipodi:version="0.32"
-   inkscape:version="0.45.1"
+   inkscape:version="0.45+devel"
    sodipodi:docbase="/home/bellaich/Desktop/cantos/tango/devices/verbatim-store-n-go-1gb/scalable"
-   sodipodi:docname="verbatim-store-n-go-1gb.svg"
+   sodipodi:docname="media-flash-usb-verbatim-store-n-go-1gb.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/bellaich/usb-storage.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs7431">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5571">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5573" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5575" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5509">
+      <stop
+         style="stop-color:#f90000;stop-opacity:1"
+         offset="0"
+         id="stop5511" />
+      <stop
+         id="stop5517"
+         offset="0.8771072"
+         style="stop-color:#940000;stop-opacity:1" />
+      <stop
+         style="stop-color:#fc0000;stop-opacity:1"
+         offset="1"
+         id="stop5513" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5401">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5403" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5405" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       id="perspective41"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4862">
@@ -135,6 +181,61 @@
        y2="32.576614"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.000141,0,-5.0767304e-3)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5401"
+       id="radialGradient5407"
+       cx="13.75"
+       cy="6.0151653"
+       fx="13.75"
+       fy="6.0151653"
+       r="7.7424639"
+       gradientTransform="matrix(1,0,0,7.2434705,0,-37.555507)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter5505"
+       x="-0.38456679"
+       width="1.7691336"
+       y="-0.69968002"
+       height="2.39936">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3234243"
+         id="feGaussianBlur5507" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5509"
+       id="linearGradient5515"
+       x1="24.530645"
+       y1="1"
+       x2="25.382771"
+       y2="36.991688"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter5567"
+       x="-0.081176471"
+       width="1.1623529"
+       y="-0.38558824"
+       height="1.7711765">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.64264706"
+         id="feGaussianBlur5569" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5571"
+       id="radialGradient5577"
+       cx="28.875"
+       cy="4"
+       fx="28.875"
+       fy="4"
+       r="9.5"
+       gradientTransform="matrix(2.8823299,0,0,4.2982113,-54.352275,-13.192845)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -143,20 +244,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.481547"
-     inkscape:cx="25.211541"
-     inkscape:cy="26.02204"
+     inkscape:zoom="1"
+     inkscape:cx="38.876912"
+     inkscape:cy="41.140272"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1083"
-     inkscape:window-height="950"
-     inkscape:window-x="349"
-     inkscape:window-y="204" />
+     inkscape:window-height="848"
+     inkscape:window-x="293"
+     inkscape:window-y="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4816" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7434">
     <rdf:RDF>
@@ -174,15 +279,30 @@
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:source />
+        <dc:source></dc:source>
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
         <cc:license
            rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:identifier></dc:identifier>
+        <dc:relation></dc:relation>
+        <dc:language></dc:language>
+        <dc:coverage></dc:coverage>
+        <dc:description></dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
@@ -218,6 +338,19 @@
        inkscape:export-filename="/home/christian/graphics/usb-icons.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/christian/graphics/usb-icons.png"
+       ry="0.57479799"
+       rx="0.40857145"
+       y="2.0303304"
+       x="6.5"
+       height="7.9696693"
+       width="14.5"
+       id="rect4818"
+       style="opacity:0.72289157000000004;fill:url(#radialGradient5407);fill-opacity:1;stroke:none;stroke-width:0.98492776999999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5505)"
+       transform="matrix(1.5373848,0,0,0.3459828,3.3609587,43.219204)" />
     <g
        id="g3883">
       <rect
@@ -285,7 +418,7 @@
          transform="scale(1,-1)" />
     </g>
     <rect
-       style="opacity:1;fill:#bc0000;fill-opacity:1;stroke:#686a65;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:1;fill:url(#linearGradient5515);fill-opacity:1;stroke:#a40000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="rect5391"
        width="19.954252"
        height="35.983372"
@@ -294,14 +427,15 @@
        rx="1.6249999"
        ry="1.6207961" />
     <rect
-       ry="1.5514235"
+       ry="2.0685647"
        rx="1.1468132"
        y="2"
        x="15"
        height="4"
        width="19"
        id="rect2425"
-       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12834676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+       style="opacity:0.55421687;fill:url(#radialGradient5577);fill-opacity:1;stroke:none;stroke-width:0.12834676000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5567)"
+       transform="matrix(1,0,0,0.75,0,0.5)" />
     <rect
        ry="0.62441021"
        rx="0.62499982"
@@ -313,9 +447,9 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:#eb9c96;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76571428;display:inline" />
     <path
        style="opacity:0.5;fill:url(#linearGradient4868);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="M 15.000118,2.9204479 C 14.990317,2.4546742 15.592584,2.0192298 16.097649,2.0044007 C 16.676869,1.9862932 32.305603,2.0299183 32.305603,2.0299183 C 32.305603,2.0299183 34.128597,1.8324825 33.99277,3.0306864 C 29.73232,5.7179683 22.746253,13.778958 23.282578,18.672169 C 24.453805,29.238882 15.009283,36 15.009283,36 C 15.009283,36 15.021175,4.4983444 15.000118,2.9204479 z "
+       d="M 15.000118,2.9204479 C 14.990317,2.4546742 15.592584,2.0192298 16.097649,2.0044007 C 16.676869,1.9862932 32.305603,2.0299183 32.305603,2.0299183 C 32.305603,2.0299183 34.128597,1.8324825 33.99277,3.0306864 C 33.99277,3.0306864 26.902075,3.1399775 26.902075,3.1399775 C 26.902075,3.1399775 15.009283,36 15.009283,36 C 15.009283,36 15.021175,4.4983444 15.000118,2.9204479 z"
        id="path6765"
-       sodipodi:nodetypes="ccccscc" />
+       sodipodi:nodetypes="ccccccc" />
     <rect
        style="opacity:1;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3312"
