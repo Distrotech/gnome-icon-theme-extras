@@ -1,3 +1,13 @@
+2008-04-06  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* pda-hp-ipaq-hx4700.*:
+	* phone-fic-neo1973.*:
+	* phone-htc-herald.*:
+	* phone-htc-magician.*:
+	* phone-samsung-f700v.*:
+	* phone-sony-ericsson-j100i.*:
+	Add more device icons from Philipp Zabel (ph5)
+
 2008-03-30  Rodney Dawes  <dobey.pwns@gmail.com>
 
 	* multimedia-player-apple-ipod-nano-video*:
