@@ -5,7 +5,7 @@ AC_INIT([gnome-icon-theme-extras], [2.29.0],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-icon-theme-extras])
 AC_CONFIG_SRCDIR([index.theme.in.in])
 
-AM_INIT_AUTOMAKE([1.9 tar-ustar foreign])
+AM_INIT_AUTOMAKE([1.9 tar-ustar foreign dist-bzip2 no-dist-gzip])
 
 PKG_PROG_PKG_CONFIG([0.19])
 
