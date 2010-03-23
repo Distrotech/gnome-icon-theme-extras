@@ -4,7 +4,7 @@
          xmlns:gnome="http://api.gnome.org/doap-extensions#"
          xmlns="http://usefulinc.com/ns/doap#">
 
-  <name xml:lang="en">gnome-icon-theme</name>
+  <name xml:lang="en">gnome-icon-theme-extras</name>
   <shortdesc xml:lang="en">Extra GNOME icons for specific devices and file types</shortdesc>
   <homepage rdf:resource="http://www.gnome.org/" />
   <download-page rdf:resource="http://download.gnome.org/sources/gnome-icon-theme-extras/" />
