@@ -1,0 +1,6 @@
+Name: gnome-icon-theme-extras
+Description: A collection of specific device and file type icons
+Version: @VERSION@
+Requires:
+Libs:
+Cflags:
