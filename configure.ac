@@ -3,7 +3,7 @@ AC_PREREQ(2.53)
 
 AC_INIT([gnome-icon-theme-extras], [2.29.0],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-icon-theme-extras])
-AC_CONFIG_SRCDIR([index.theme.in.in])
+AC_CONFIG_SRCDIR([src/phone-palm-pre.svg])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar foreign dist-bzip2 no-dist-gzip])
 
