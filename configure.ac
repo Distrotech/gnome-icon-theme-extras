@@ -42,8 +42,7 @@ if test "x$enable_mapping" != "xno"; then
       AC_MSG_RESULT([yes])
    else
       AC_MSG_RESULT([no])
-      AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
-                    and install gnome-icon-theme])
+      AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build and install gnome-icon-theme-extras])
    fi
 fi
 AC_SUBST(ICONMAP)
