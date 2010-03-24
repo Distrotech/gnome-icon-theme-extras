@@ -17,11 +17,13 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.46+devel"
+   inkscape:version="0.47+devel r9222 custom"
    sodipodi:docname="application-x-blender.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="enable-background:new">
+  <title
+     id="title24950">Blender Project File</title>
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
@@ -32,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="197.13088"
+     inkscape:cx="35.63088"
      inkscape:cy="153.19553"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -2336,11 +2338,14 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:title>Folder</dc:title>
+        <dc:title>Blender Project File</dc:title>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>dir</rdf:li>
-            <rdf:li>folder</rdf:li>
+            <rdf:li>blender</rdf:li>
+            <rdf:li>blend</rdf:li>
+            <rdf:li>3d</rdf:li>
+            <rdf:li>scene</rdf:li>
+            <rdf:li>mesh</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:date />
@@ -2713,25 +2718,7 @@
       </g>
     </g>
     <image
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAMdEVY
-dFRpdGxlAEZvbGRlcuNZL58AAAAUdEVYdEF1dGhvcgBKYWt1YiBTdGVpbmVy5vv3LwAAACF0RVh0
-U291cmNlAGh0dHA6Ly9qaW1tYWMubXVzaWNoYWxsLmN6aWbjXgAAAFJ0RVh0Q29weXJpZ2h0AEND
-IEF0dHJpYnV0aW9uLVNoYXJlQWxpa2UgaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5z
-ZXMvYnktc2EvMy4wL16DWrwAAAKLSURBVDiNpZNdSFNxGMaf//9/Nne2+TF1psNczc0RrSxBI+8s
-axp+hBClgdpFsYu6iKiE7vtQr4TAa8WwujEFhykIZWBRMqELJ87cLkSbbH5tx23nnH9XCQtBquf2
-efnB+7zPS9xuN/5HwmED3bavY+C8SqWiuyvg8v3p08MABLhUfO5ygUYnvO2x+Wr/GqDKKahbqxHb
-+Vo70xte95SlQ8jvDHotE9UKNQylmVp9CU/GQ1SOhW31typJhgFL3sEQYVrPw+UKbxqg2zorO+tb
-GQgDoRQgDIqcAtPqAHCAMPDkDpJ7ydSSdxCEkmtdqzXvmN1uBwA0F646N4IBx8+FOQqqjYr5RaLG
-VAzmaoFwth3UVgNqdoKEPjC9uTi5GVxsu5i7OrKfwV1/1c2UzDugKGqe41QOJQB1uDG+bETlnSE0
-PhnD+KIG2voeiNKKaLZat7EXe7QPeHH8WwOS8YGyxk7CxCyKWBik4AT6R+cBAOuROPpH58HFfPBs
-K0yZMAFoEgCg1zxRrfKcEWdDO4tHwxLZjAoii2vAD7oLh6LJggAFhFAj7bNMXOdG00dn3Q3m975S
-V6aGE6nY5jakKBLBL/A0lQMAjuTq4Wkqh7QTBf0xCa4xAIBEfLczJWddq27x/RsFqvogKcUqjHnm
-CqvV5OIbC0DHFPRlF6DIMuLrS+DDLRC2lhEVSmPhgH+a+Dz5A5ATV0GFK4+DVTNPj86cJglpMqvU
-lWExxLJ5JJC+gUYPyXRGDs3NKvKeeowc9EzPLdPNXJb7kF2oK3HY8gwZnIGrSCkU62uR3a2gn3xf
-U9s6JzF2IAAAntk/W7G7ey+ZUtu0DEWcQ1E4onGZjL/8pNzfPumOpDXxX/ULcc4GQ2/jH+UAAAAA
-SUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAMdEVY dFRpdGxlAEZvbGRlcuNZL58AAAAUdEVYdEF1dGhvcgBKYWt1YiBTdGVpbmVy5vv3LwAAACF0RVh0 U291cmNlAGh0dHA6Ly9qaW1tYWMubXVzaWNoYWxsLmN6aWbjXgAAAFJ0RVh0Q29weXJpZ2h0AEND IEF0dHJpYnV0aW9uLVNoYXJlQWxpa2UgaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5z ZXMvYnktc2EvMy4wL16DWrwAAAKLSURBVDiNpZNdSFNxGMaf//9/Nne2+TF1psNczc0RrSxBI+8s axp+hBClgdpFsYu6iKiE7vtQr4TAa8WwujEFhykIZWBRMqELJ87cLkSbbH5tx23nnH9XCQtBquf2 efnB+7zPS9xuN/5HwmED3bavY+C8SqWiuyvg8v3p08MABLhUfO5ygUYnvO2x+Wr/GqDKKahbqxHb +Vo70xte95SlQ8jvDHotE9UKNQylmVp9CU/GQ1SOhW31typJhgFL3sEQYVrPw+UKbxqg2zorO+tb GQgDoRQgDIqcAtPqAHCAMPDkDpJ7ydSSdxCEkmtdqzXvmN1uBwA0F646N4IBx8+FOQqqjYr5RaLG VAzmaoFwth3UVgNqdoKEPjC9uTi5GVxsu5i7OrKfwV1/1c2UzDugKGqe41QOJQB1uDG+bETlnSE0 PhnD+KIG2voeiNKKaLZat7EXe7QPeHH8WwOS8YGyxk7CxCyKWBik4AT6R+cBAOuROPpH58HFfPBs K0yZMAFoEgCg1zxRrfKcEWdDO4tHwxLZjAoii2vAD7oLh6LJggAFhFAj7bNMXOdG00dn3Q3m975S V6aGE6nY5jakKBLBL/A0lQMAjuTq4Wkqh7QTBf0xCa4xAIBEfLczJWddq27x/RsFqvogKcUqjHnm CqvV5OIbC0DHFPRlF6DIMuLrS+DDLRC2lhEVSmPhgH+a+Dz5A5ATV0GFK4+DVTNPj86cJglpMqvU lWExxLJ5JJC+gUYPyXRGDs3NKvKeeowc9EzPLdPNXJb7kF2oK3HY8gwZnIGrSCkU62uR3a2gn3xf U9s6JzF2IAAAntk/W7G7ey+ZUtu0DEWcQ1E4onGZjL/8pNzfPumOpDXxX/ULcc4GQ2/jH+UAAAAA SUVORK5CYII= "
        width="16"
        height="16"
        id="image5474"

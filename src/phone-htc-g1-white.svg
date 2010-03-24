@@ -18,6 +18,8 @@
    sodipodi:docname="phone-htc-g1-white.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
+  <title
+     id="title19472">T-Mobile G1 aka HTC Dream</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,15 +31,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="164.89607"
+     inkscape:cx="3.39607"
      inkscape:cy="227.45272"
      inkscape:document-units="px"
      inkscape:current-layer="g8213"
      showgrid="false"
      inkscape:window-width="1153"
      inkscape:window-height="952"
-     inkscape:window-x="443"
-     inkscape:window-y="47"
+     inkscape:window-x="1955"
+     inkscape:window-y="132"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -2386,8 +2388,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>T-Mobile G1 aka HTC Dream</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
