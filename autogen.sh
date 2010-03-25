@@ -4,11 +4,11 @@
 srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
-PKG_NAME="gnome-icon-theme"
+PKG_NAME="gnome-icon-theme-extras"
 REQUIRED_AUTOMAKE_VERSION=1.9
 
 (test -f $srcdir/configure.ac \
-  && test -f $srcdir/index.theme.in.in \
+  && test -f $srcdir/src/phone-palm-pre.svg \
   && test -d $srcdir/src) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
     echo " top-level $PKG_NAME directory"
